@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import static com.esiete.ironmusclesapp.WelcomeActivity.usuario;
+
 public class DisplayMessageActivity extends AppCompatActivity {
 
     @Override
@@ -18,7 +20,8 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
         // Capture the layout's TextView and set the string as its text
         TextView textView = findViewById(R.id.textView);
-        textView.setText(message);
+        String texto= usuario.getMembresia()+getString(R.string.texto_membresia);
+        textView.setText(texto);
 
     }
 }

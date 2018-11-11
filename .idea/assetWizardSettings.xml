@@ -19,8 +19,9 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="B:\Desktop\logo.png" />
-                                      <entry key="outputName" value="logo" />
+                                      <entry key="imageAsset" value="B:\Desktop\62902-200.png" />
+                                      <entry key="outputName" value="toalla_fab" />
+                                      <entry key="theme" value="HOLO_DARK" />
                                     </map>
                                   </option>
                                 </PersistentState>

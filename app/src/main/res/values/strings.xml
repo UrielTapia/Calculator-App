@@ -1,5 +1,32 @@
 <resources>
-    <string name="app_name">IronMusclesApp</string>
-    <string name="edit_message">Ingresa un mensaje</string>
-    <string name="button_send">Enviar</string>
-</resources>
+    <!--General-->
+    <string name="app_name">Iron Muscles</string>
+
+
+    <!--Inicio de sesión-->
+    <string name="texto_sesion">Ingresa tus datos</string>
+    <string name="correo_elec">Correo electrónico/usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="boton_inicio">Iniciar sesión</string>
+    <string name="titulo_sesion">Inicia sesión</string>
+    <string name="error_datos_sesion">Correo/contraseña incorrecto</string>
+    <string name="error_correo_sesion">Ingresa un correo o usuario</string>
+    <string name="error_contra_sesion">Ingresa la contraseña</string>
+
+    <!--Pantalla de inicio-->
+    <string name="boton_welcome_iniciar">Inicia sesión</string>
+    <string name="boton_welcome_registrar">Regístrate</string>
+
+
+    <!--Pantalla principal-->
+    <string name="texto_membresia">&#160;meses restantes</string>
+
+
+    <string name="title_activity_home">Inicio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources><!-- -->
